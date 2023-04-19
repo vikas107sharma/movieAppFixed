@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&family=Open+Sans&family=Roboto&display=swap");
+
+/* font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+/*
+colors
+grand-bg: #03001C 
+primary-bg : #16213E
+secondary-bg : #0F3460
+signout: #E94560
+*/
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+  color: #fff;
+  font-weight: 300;
+  font-size: 50px;
+  line-height: 0.65;
+  font-family: "Lobster", cursive;
+}
+
+.box_shadow {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
